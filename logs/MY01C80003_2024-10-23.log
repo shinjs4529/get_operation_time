@@ -1,0 +1,16 @@
+2024-10-23T00:34:10.583Z [INFO]  appPackageInfo: 68
+2024-10-23T00:34:10.592Z [INFO]  appPackageInfo: 59
+2024-10-23T00:34:10.595Z [INFO]  appPackageInfo: 51
+2024-10-23T00:34:10.622Z [INFO]  appPackageInfo: 2
+2024-10-23T00:34:10.639Z [INFO]  appPackageInfo: 0
+2024-10-23T00:34:10.652Z [INFO]  appPackageInfo: 3
+2024-10-23T00:34:10.655Z [INFO]  'browser app version: ', 3
+2024-10-23T00:34:10.671Z [INFO]  Setup STT
+2024-10-23T00:34:10.704Z [INFO]  boot... ok
+........................
+2024-10-23T02:36:58.325Z [INFO]  [STT] no speech
+2024-10-23T02:36:58.328Z [INFO]  [Actor.Robot]handle event - ASSIGN
+2024-10-23T02:37:00.470Z [ERROR]  'Socket disconnected: ', 'transport error'
+2024-10-23T02:37:00.529Z [WARN]  clearListeners!
+2024-10-23T02:37:00.538Z [INFO]  Try login with robotToken
+2024-10-23T02:37:00.550Z [INFO]  [NetInfo] wifi true

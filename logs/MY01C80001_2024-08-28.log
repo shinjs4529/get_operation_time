@@ -1,0 +1,36 @@
+2024-08-28T00:31:49.010Z [INFO]  appPackageInfo: 68
+2024-08-28T00:31:49.014Z [INFO]  appPackageInfo: 59
+2024-08-28T00:31:49.016Z [INFO]  appPackageInfo: 51
+2024-08-28T00:31:49.037Z [INFO]  appPackageInfo: 2
+2024-08-28T00:31:49.044Z [INFO]  appPackageInfo: 47
+2024-08-28T00:31:49.051Z [INFO]  appPackageInfo: 0
+2024-08-28T00:31:49.052Z [INFO]  'browser app version: ', 0
+2024-08-28T00:31:49.057Z [INFO]  Setup STT
+2024-08-28T00:31:49.068Z [INFO]  boot... ok
+2024-08-28T00:31:49.077Z [INFO]  [Robot.Idle]Entry
+2024-08-28T00:31:49.206Z [INFO]  [Actor.Robot]handle event - SET_MODE
+2024-08-28T00:31:49.207Z [INFO]  UPDATE ROBOTMODE
+2024-08-28T00:31:49.209Z [INFO]  'NEXT ROBOTMODE: ', 1
+2024-08-28T00:31:49.213Z [INFO]  'RobotMode: Normal!', 30
+2024-08-28T00:31:49.304Z [INFO]  [Actor.Robot]handle event - INTENT
+2024-08-28T00:31:49.304Z [INFO]  !!!!INTENT
+2024-08-28T00:31:49.305Z [INFO]  [STT] already stopped
+2024-08-28T00:31:49.341Z [INFO]  'Running Plan - 1?', []
+2024-08-28T00:31:49.343Z [INFO]  'Running Plan?', undefined
+2024-08-28T00:31:49.473Z [INFO]  [Actor.Robot]handle event - SET_VOLUME
+2024-08-28T00:31:49.475Z [INFO]  setVolume 30 (converted: 0.3)
+2024-08-28T00:31:49.567Z [INFO]  [Actor.Robot]handle event - SET_BRIGHTNESS
+2024-08-28T00:31:49.568Z [INFO]  setBrightness 100 (converted: 1)
+2024-08-28T00:31:49.664Z [INFO]  [Actor.Robot]handle event - SPAWN_PLAN
+2024-08-28T00:31:49.665Z [INFO]  !!!SPAWN_PLAN f5dd20e6-be36-426b-b304-54514a58cb30
+2024-08-28T00:31:49.728Z [INFO]  GetScript greeting first_hello
+2024-08-28T00:31:49.732Z [INFO]  currentHour: 9
+2024-08-28T00:31:49.790Z [INFO]  [Task.f94eaaa6-029b-4820-accb-8b4c43af196e]Play!
+2024-08-28T00:31:49.793Z [INFO]  'PLAY!! -', ' 오늘 하루는 잘 시작하셨나요? 오늘은 8월 28일 수요일이에요.  '
+2024-08-28T00:31:49.793Z [INFO]  [STT] already stopped
+2024-08-28T00:31:49.901Z [INFO]  [Actor.Robot]handle event - STAY
+2024-08-28T00:31:51.224Z [INFO]  [Actor.Robot]handle event - VIEW
+.....................
+2024-08-28T01:03:37.614Z [INFO]  FINISH : From 1 -> 0 (Top? true)
+2024-08-28T01:03:37.615Z [INFO]  FINISH PLAN!!!  SET VIEW!!!!!
+2024-08-28T01:03:37.948Z [INFO]  [Actor.Robot]handle event - VIEW

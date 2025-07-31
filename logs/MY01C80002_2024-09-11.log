@@ -1,0 +1,15 @@
+2024-09-11T00:52:32.061Z [INFO]  appPackageInfo: 68
+2024-09-11T00:52:32.064Z [INFO]  appPackageInfo: 59
+2024-09-11T00:52:32.065Z [INFO]  appPackageInfo: 51
+2024-09-11T00:52:32.084Z [INFO]  appPackageInfo: 2
+2024-09-11T00:52:32.091Z [INFO]  appPackageInfo: 0
+2024-09-11T00:52:32.097Z [INFO]  appPackageInfo: 2
+2024-09-11T00:52:32.098Z [INFO]  'browser app version: ', 2
+2024-09-11T00:52:32.104Z [INFO]  Setup STT
+2024-09-11T00:52:32.114Z [INFO]  boot... ok
+....................
+2024-09-11T02:57:10.661Z [INFO]  [Background]Tick - Wed Sep 11 2024 11:57:08 GMT+0900 (KST)
+2024-09-11T02:57:11.821Z [ERROR]  'Socket disconnected: ', 'transport error'
+2024-09-11T02:57:11.859Z [WARN]  clearListeners!
+2024-09-11T02:57:11.869Z [INFO]  Try login with robotToken
+2024-09-11T02:57:11.880Z [INFO]  [NetInfo] wifi true

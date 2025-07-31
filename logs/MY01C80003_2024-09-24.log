@@ -1,0 +1,17 @@
+2024-09-24T07:18:41.620Z [INFO]  appPackageInfo: 68
+2024-09-24T07:18:41.623Z [INFO]  appPackageInfo: 59
+2024-09-24T07:18:41.625Z [INFO]  appPackageInfo: 51
+2024-09-24T07:18:41.645Z [INFO]  appPackageInfo: 2
+2024-09-24T07:18:41.653Z [INFO]  appPackageInfo: 0
+2024-09-24T07:18:41.659Z [INFO]  appPackageInfo: 2
+2024-09-24T07:18:41.660Z [INFO]  'browser app version: ', 2
+2024-09-24T07:18:41.664Z [INFO]  Setup STT
+2024-09-24T07:18:41.674Z [INFO]  boot... ok
+.......................
+2024-09-24T07:30:34.327Z [INFO]  App state is now active
+2024-09-24T07:30:34.342Z [INFO]  current wifi: SEOUL
+2024-09-24T07:30:40.857Z [INFO]  [Background]Tick - Tue Sep 24 2024 16:30:38 GMT+0900 (KST)
+2024-09-24T07:30:44.699Z [INFO]  [NetInfo] wifi true
+2024-09-24T07:30:44.765Z [ERROR]  'Socket disconnected: ', 'transport error'
+2024-09-24T07:30:44.770Z [WARN]  clearListeners!
+2024-09-24T07:30:44.821Z [INFO]  Try login with robotToken
